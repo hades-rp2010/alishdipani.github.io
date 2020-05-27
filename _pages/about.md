@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "pages/about"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-About Me
+I am a recent graduate from [BITS Pilani, Goa Campus, India](https://www.bits-pilani.ac.in/goa/) with a Bachelor of Engineering (B.E.) in Computer Science. 
