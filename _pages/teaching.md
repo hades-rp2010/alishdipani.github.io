@@ -5,11 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+{% include base_path %}
 
 * Teaching Assistant: Artificial Intelligence (CS F407) at [BITS Pilani, Goa Campus, India](https://www.bits-pilani.ac.in/goa/)  
   * Duration: Jan 2019 - May 2019  
