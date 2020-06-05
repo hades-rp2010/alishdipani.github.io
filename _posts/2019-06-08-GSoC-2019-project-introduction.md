@@ -9,7 +9,7 @@ tags:
  - Rubyplot
 ---
 
-Summary:    Introducing my project for GSoC 2019.  
+Summary: Introducing my project for GSoC 2019.  
 
 **Table of Contents**
 * TOC
