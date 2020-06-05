@@ -6,6 +6,8 @@ tags:
  - Projects
 ---
 
+Summary:    Generation of new music using Neural Style Transfer Algorithm.  
+
 This Blog has been published on Intel's website. Please click on this link : [Link](https://software.intel.com/en-us/articles/neural-style-transfer-on-audio-signals)
 
 Sorry for the inconvenience :(
