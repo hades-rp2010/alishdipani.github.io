@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from [BITS Pilani, Goa Campus, India](https://www.bits-pilani.ac.in/goa/) with a Bachelor of Engineering (B.E.) in Computer Science. 
+I am a recent graduate from [BITS Pilani, Goa Campus, India](https://www.bits-pilani.ac.in/goa/) with a Bachelor of Engineering (B.E.) in Computer Science. My Research Interests are Machine Learning, Deep Learning, Computation Neuroscience and Cognitive Neuroscience. Currently, I am Exploring Spiking Neural Networks and Neuromorphic Computing.
