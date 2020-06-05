@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-* TCS Innovation Labs, Kolkata, India
+* **TCS Innovation Labs, Kolkata, India**
   * Position: Research Assistant
   * Duration: February 2020 - May 2020
   * Mentors: [Dr. Arijit Mukherjee](https://scholar.google.co.in/citations?user=99_nlsMAAAAJ), [Sounak Dey](https://scholar.google.com/citations?user=s6EyYlUAAAAJ)
   * Links: [Offer Letter](https://drive.google.com/file/d/1hqt1Gw1RxIOnqsai27yUflAYSR2JLvZM/view?usp=sharing)
  
-* Centre national de la recherche scientifique (CNRS), France
+* **Centre national de la recherche scientifique (CNRS), France**
   * Position: Research Intern (Undergraduate Thesis)
   * Duration: August 2019 - December 2019
   * Project Title: Considering DNA topology to investigate Transcription Factor Combinatorics
@@ -21,7 +21,7 @@ author_profile: true
   * Affiliations: [Institute of Molecular Genetics of Montpellier](http://www.igmm.cnrs.fr/), [Laboratory of Informatics, Robotics and Microelectronics of Montpellier](http://www.lirmm.fr), [Montpellier Alexander Grothendieck Institute](http://imag.edu.umontpellier.fr/)
   * Links: [Team Website](http://www.igmm.cnrs.fr/en/service/biogenese-micro-arns/), [Offer Letter](https://drive.google.com/file/d/1x9UTYSv2D6JTOMRVSK9_zYdxP0jlTvfD/view?usp=sharing), [Presentation](https://drive.google.com/file/d/1YMWKQA6bm2lW-alsdFLkqAM51jZPcnTF/view?usp=sharing), [Report](https://drive.google.com/open?id=1wyWnNp_XJCjfb0dSpBSMuvFjsmCERima)
 
-* Google Summer of Code (GSoC) 2019
+* **Google Summer of Code (GSoC) 2019**
   * Position: Open Source Developer
   * Duration: May 2019 - August 2019
   * Project Title: Adding Magick back-end support and iruby integration to Rubyplot: An advanced plotting library for Ruby
