@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * **Neuromatch Academy 2020: An online school for Computational Neuroscience**
-  * Position: Organizer; E-mail Sub-Chair of Outreach team, Member of Technical team
+  * Position: Organizer
   * Duration: April 2020 - Present
   * Links: [Website](https://neuromatch.io/academy/)
   
