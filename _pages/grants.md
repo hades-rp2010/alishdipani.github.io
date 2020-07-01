@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 * **Intel Early Innovation Grant**
-  * Project:  Analysis and reconstruction of music percieved by the brain using EEG signals 
-  * Project Description: The project aims to study and analyse how our brain perceives music which we're listening to and the extraction of meaningful information from the brain signals (EEG). Further aim is to Explore Reconstruction of the music using Generative Deep Learning models.
+  * Project:  Analysis and reconstruction of audio perceived by the brain using EEG signals 
+  * Project Description: The project aims to study and analyse how our brain perceives audio being listened by a subject and the extraction of meaningful information from the EEG signals. Further aim is to Explore Reconstruction of the audio using Generative Deep Learning models.
   * Grant Amount: 5,000$
   * Links: [Intel Devmesh](https://devmesh.intel.com/projects/analysis-and-reconstruction-of-music-percieved-by-the-brain-using-eeg-signals)
 
