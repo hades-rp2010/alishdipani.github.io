@@ -27,4 +27,4 @@ author_profile: true
   * Project Title: Adding Magick back-end support and iruby integration to Rubyplot: An advanced plotting library for Ruby
   * Mentoring Organisation: [The Ruby Science Foundation (SciRuby)](http://sciruby.com/)
   * Mentors: [Sameer Deshmukh](https://github.com/v0dro), [Shekhar Prasad Rajak](https://github.com/Shekharrajak)
-  * Links: [Project](https://summerofcode.withgoogle.com/archive/2019/projects/6622714041729024/), [Proposal](https://github.com/alishdipani/rubyplot/wiki/GSoC-2019-Proposal), [Final Report](https://alishdipani.github.io/gsoc2019/2019/08/22/Wrapping-up-GSoC-2019/), [Github Repo](https://github.com/SciRuby/rubyplot) 
+  * Links: [Project](https://summerofcode.withgoogle.com/archive/2019/projects/6622714041729024/), [Proposal](https://github.com/alishdipani/rubyplot/wiki/GSoC-2019-Proposal), [Final Report](https://alishdipani.github.io/gsoc2019/2019/08/22/Wrapping-up-GSoC-2019/), [Github Repo](https://github.com/SciRuby/rubyplot), [Daily Updates](https://discourse.ruby-data.org/t/gsoc-2019-project-rubyplot-discussion/57) 
