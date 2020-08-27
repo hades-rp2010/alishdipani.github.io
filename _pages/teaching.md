@@ -9,7 +9,7 @@ author_profile: true
 
 * **Teaching Assistant** at Neuromatch Academy: An online school for Computational Neuroscience
   * Duration: July 2020
-  * Links: [Website](https://neuromatch.io/academy/)
+  * Links: [Certificate](https://drive.google.com/file/d/1Xpvc-oerDkErBXWavzkOmVhd6VKpZqeD/view?usp=sharing), [Website](https://www.neuromatchacademy.org/)
 
 * **Teaching Assistant**: Artificial Intelligence (CS F407) at [BITS Pilani, Goa Campus, India](https://www.bits-pilani.ac.in/goa/)  
   * Duration: Jan 2019 - May 2019  
