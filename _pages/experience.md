@@ -12,7 +12,7 @@ author_profile: true
   * Duration: August 2020 - Present
   * Links: [Website](https://uploadai.com/)
 
-* **Northeastern University**
+* **Northeastern University, USA**
   * Position: Research Assistant
   * Duration: August 2020 - Present
   * Mentor: [Dr. MiYoung Kwon](https://scholar.google.com/citations?user=TdeKEGYAAAAJ&hl=en)
