@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+* **Upload AI**
+  * Position: Machine Learning Engineer
+  * Duration: August 2020 - Present
+  * Links: [Website](https://uploadai.com/)
+
+* **Northeastern University**
+  * Position: Research Assistant
+  * Duration: August 2020 - Present
+  * Mentor: [Dr. MiYoung Kwon](https://scholar.google.com/citations?user=TdeKEGYAAAAJ&hl=en)
+  * Affiliation: The Laboratory of Low Vision and Brain Research
+  * Links: [Website](https://kwonlab.sites.northeastern.edu/), [Offer Letter](https://drive.google.com/file/d/1SGjyaA3Z_GSp_HrHO7djiwjivoKfV7a7/view?usp=sharing)
+
 * **TCS Innovation Labs, Kolkata, India**
   * Position: Research Assistant
   * Duration: February 2020 - May 2020
