@@ -23,7 +23,7 @@ author_profile: true
   * Position: Research Assistant
   * Duration: February 2020 - May 2020
   * Mentors: [Dr. Arijit Mukherjee](https://scholar.google.co.in/citations?user=99_nlsMAAAAJ), [Sounak Dey](https://scholar.google.com/citations?user=s6EyYlUAAAAJ)
-  * Links: [Offer Letter](https://drive.google.com/file/d/1hqt1Gw1RxIOnqsai27yUflAYSR2JLvZM/view?usp=sharing)
+  * Links: [Offer Letter](https://drive.google.com/file/d/1hqt1Gw1RxIOnqsai27yUflAYSR2JLvZM/view?usp=sharing), [Certificate](https://drive.google.com/file/d/167xIJLF2Z1JTwaj-0BITqFOTKpe1Nbvw/view?usp=sharing)
  
 * **Centre national de la recherche scientifique (CNRS), France**
   * Position: Research Intern (Undergraduate Thesis)
