@@ -14,7 +14,7 @@ My Research Interests are Machine Learning, Deep Learning, Computation Neuroscie
   
 <!--- My resume can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1n93N_m47miXbX5KnYSLxW8JbxBOlPnlo/view?usp=sharing). --->
 
-My CV can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1qSLwNRHp0uGyrPDYPRteDlYZpPczjw-d/view?usp=sharing).
+My CV can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1qSLwNRHp0uGyrPDYPRteDlYZpPczjw-d/view?usp=sharing) (Updated July 2020).
   
   
 Feel free to get in touch for collaborating or for a chat!
