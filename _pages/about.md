@@ -19,5 +19,5 @@ I work as a Machine Learning Engineer at [Upload AI](https://uploadai.com/) and 
 My CV can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1qSLwNRHp0uGyrPDYPRteDlYZpPczjw-d/view?usp=sharing) (Updated July 2020).
   
   
-Feel free to get in touch for collaborating or for a chat!
+Feel free to get in touch for collaborating or for a chat!  
 My email: alish.dipani@{gmail.com, uploadai.com, bcm.edu}
