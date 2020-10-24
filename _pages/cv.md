@@ -11,4 +11,4 @@ redirect_from:
 
 <!-- My resume can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1n93N_m47miXbX5KnYSLxW8JbxBOlPnlo/view?usp=sharing). -->
 
-My CV can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/18wCudNCni9TP6DFUcMcQ0LHxzBAXiymG/view?usp=sharing).
+My CV can be viewed and downloaded from this [[Link]](https://drive.google.com/file/d/1qSLwNRHp0uGyrPDYPRteDlYZpPczjw-d/view?usp=sharing).
