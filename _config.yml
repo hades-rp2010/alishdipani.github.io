@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+favicon                  : "/favicon.ico"
 title                    : "Rishabh Patra"
 title_separator          : "-"
 name                     : &name "Rishabh Patra"
@@ -75,7 +76,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-167953496-1"
+    tracking_id          : "G-S1QM48HHPG"
 
 
 # Site Author
@@ -87,32 +88,14 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "alish.dipani@gmail.com"
+  email            : "rpatra.rp54@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "hades-rp2010"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "rpatra_2010"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
@@ -129,12 +112,9 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
   - Capfile
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
