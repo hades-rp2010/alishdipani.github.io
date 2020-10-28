@@ -18,7 +18,7 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: "files/Rishabh_CV.pdf"
+    url: "/files/Rishabh_CV.pdf"
   
 #  - title: "Grants"
 #    url: /grants/
