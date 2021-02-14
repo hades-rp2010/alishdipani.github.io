@@ -19,5 +19,5 @@ My CV can be viewed and downloaded from this [[Link]](files/Rishabh_CV.pdf).
   
   
 Feel free to get in touch for collaborating or for a chat!  
-My email: rpatra.rp54@gmail.com  
-My twitter handle: rpatra_2010
+My email: [rpatra.rp54@gmail.com](mailto:rpatra.rp54@gmail.com)  
+My twitter handle: [rpatra_2010](https://twitter.com/rpatra_2010)
